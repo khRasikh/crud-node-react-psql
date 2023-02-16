@@ -1,7 +1,7 @@
 {
-  "name": "graphql-gateway",
+  "name": "crud-node-react-psql",
   "version": "2.0.0",
-  "description": "GraphQL gateway for Atheros Intelligence Ltd.",
+  "description": "crud-node-react-psql for practice purpose only",
   "main": "index.js",
   "scripts": {
     "tsc": "tsc --p ./tsconfig.json",
@@ -25,7 +25,7 @@
     "node",
     "apollo-server"
   ],
-  "author": "Atheros Intelligence <support@atheros.ai>",
+  "author": "khudadad Rasikh kh.rasikh542@gmail.com",
   "license": "ISC",
   "engines": {
     "node": ">=10.0.0",
